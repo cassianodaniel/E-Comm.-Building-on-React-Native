@@ -1,0 +1,42 @@
+div .main{
+    background-color: #E5E6F0;
+}
+
+header{
+    width: 60rem;
+    background-color: #fff;
+    height: 630px;
+    margin-left: 20rem;
+}
+
+aside{
+    height: 630px;
+    background-color: E5E6F0;
+    width: 10rem;
+    position: absolute;
+    bottom: -7px; 
+}
+
+div .ant-tabs-nav-scroll{
+    border-bottom-color: transparent;
+    background-color: #E5E6F0;
+}
+
+div .ant-tabs-tabpane{
+    background-color: #E5E6F0;
+}
+
+div .ant-tabs-tabpane-active{
+    background-color: #E5E6F0;
+}
+
+header{
+    background-color: #E5E6F0;
+}
+
+div .ant-tabs-nav{
+    background-color: #FFF;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-top: 6px;
+}
