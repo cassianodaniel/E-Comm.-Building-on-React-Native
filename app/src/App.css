@@ -1,5 +1,5 @@
 div .main{
-    background-color: #E5E6F0;
+    background-color: #E6E6FA;
 }
 
 header{
@@ -11,7 +11,7 @@ header{
 
 aside{
     height: 630px;
-    background-color: E5E6F0;
+    background-color: #E6E6FA;
     width: 10rem;
     position: absolute;
     bottom: -7px; 
@@ -19,19 +19,19 @@ aside{
 
 div .ant-tabs-nav-scroll{
     border-bottom-color: transparent;
-    background-color: #E5E6F0;
+    background-color: #E6E6FA;
 }
 
 div .ant-tabs-tabpane{
-    background-color: #E5E6F0;
+    background-color: #E6E6FA;
 }
 
 div .ant-tabs-tabpane-active{
-    background-color: #E5E6F0;
+    background-color: #E6E6FA;
 }
 
 header{
-    background-color: #E5E6F0;
+    background-color: #E6E6FA;
 }
 
 div .ant-tabs-nav{
@@ -39,4 +39,5 @@ div .ant-tabs-nav{
     padding: 10px 10px;
     border-radius: 5px;
     margin-top: 6px;
+    box-shadow: 0 0 10px 0;
 }

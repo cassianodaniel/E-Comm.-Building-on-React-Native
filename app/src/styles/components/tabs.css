@@ -1,0 +1,43 @@
+div .SignUp{
+    background-color: red;
+    width: 320px;
+    background: #FFF;
+    box-shadow: 0 0 10px 0;
+    border-radius:2px;
+    padding: 30px 20px;
+    margin-top: 10px;
+}
+
+strong{
+    font-size:20px;
+    text-align: center;
+    display: block;
+    color: #333;
+}
+
+label{
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+    margin-top: 15px;
+}
+
+div .button{
+width: 100%;
+border: 0;
+margin-top: 30px;
+background: #7d40e7;
+border-radius:2px;
+margin-top: 32px;
+padding: 15px 20px;
+font-size: 16px;
+font-weight: bold;
+color: #fff;
+cursor: pointer;
+transition: background 0.3s;
+}
+
+input{
+    margin-top: 3px;
+}
