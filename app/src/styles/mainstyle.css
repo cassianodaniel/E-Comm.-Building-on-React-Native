@@ -1,2 +1,9 @@
+/* ANTD COMPONENTS*/
 @import '../styles/components/tabs.css';
 @import '../styles/components/button.css';
+
+
+/* ANTD ICONS*/
+@import '../styles/icons/FacebookOutlined.css';
+@import '../styles/icons/InstagramOutlined.css';
+@import '../styles/icons/WhatsappOutlined.css';

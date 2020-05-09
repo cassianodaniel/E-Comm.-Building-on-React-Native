@@ -12,6 +12,7 @@ import { Tabs } from 'antd';
 import ComponentButton from './Button';
 const { TabPane } = Tabs;
 
+
 function TabsComponent(){
 return(
 <div class = "container">
@@ -44,9 +45,6 @@ return(
         </div>
     </TabPane>
     <TabPane tab="Loja Virtual" key="shop">
-        RegistroContent
-    </TabPane>
-    <TabPane tab="Contato" key="contact">
         RegistroContent
     </TabPane>
     </Tabs>

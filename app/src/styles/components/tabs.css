@@ -1,6 +1,5 @@
 div .SignUp{
-    background-color: red;
-    width: 320px;
+    width: 300px;
     background: #FFF;
     box-shadow: 0 0 10px 0;
     border-radius:2px;
@@ -41,3 +40,4 @@ transition: background 0.3s;
 input{
     margin-top: 3px;
 }
+

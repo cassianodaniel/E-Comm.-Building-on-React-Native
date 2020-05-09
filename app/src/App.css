@@ -7,6 +7,8 @@ header{
     background-color: #fff;
     height: 630px;
     margin-left: 20rem;
+    position: absolute;
+    left: -10rem;
 }
 
 aside{
@@ -24,6 +26,7 @@ div .ant-tabs-nav-scroll{
 
 div .ant-tabs-tabpane{
     background-color: #E6E6FA;
+    margin-left: 2rem;
 }
 
 div .ant-tabs-tabpane-active{
@@ -40,4 +43,6 @@ div .ant-tabs-nav{
     border-radius: 5px;
     margin-top: 6px;
     box-shadow: 0 0 10px 0;
+    width: 600px;
+    margin-left: 4rem;
 }
