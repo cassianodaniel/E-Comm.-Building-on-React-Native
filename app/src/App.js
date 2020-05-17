@@ -22,9 +22,6 @@ function App() {
       <div class = "divBlock">
           <header>
               <TabsComponent></TabsComponent>
-              <ComponentFacebook></ComponentFacebook>
-              <ComponentInstagram></ComponentInstagram>
-              <ComponentWhatsapp></ComponentWhatsapp>
           </header>
           <aside>
               <Sider width={200} className="site-layout-background">
@@ -35,9 +32,6 @@ function App() {
               style={{ height: '100%', borderRight: 0 }}
             >
               <SubMenu key="sub1" icon={<UserOutlined />} title="Whey">
-                <Menu.Item key="1">option1</Menu.Item>
-                <Menu.Item key="2">option2</Menu.Item>
-                <Menu.Item key="3">option3</Menu.Item>
               </SubMenu>
               <SubMenu key="sub2" icon={<LaptopOutlined />} title="BCAA">
                 <Menu.Item key="4">option4</Menu.Item>
