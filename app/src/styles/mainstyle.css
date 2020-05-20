@@ -9,5 +9,5 @@
 @import '../styles/icons/WhatsappOutlined.css';
 
 /* COMPONENTS */
-
-@import '../styles/components/facebook.css'
+@import '../styles/components/buttonfacebookauth.css';
+@import '../styles/components/facebook.css';

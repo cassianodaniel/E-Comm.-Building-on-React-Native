@@ -10,9 +10,6 @@ import TabsComponent from './components/Tabs';
 
 import { Layout, Menu} from 'antd';
 import { UserOutlined, LaptopOutlined, NotificationOutlined } from '@ant-design/icons';
-import ComponentFacebook from './components/FacebookOutlined';
-import ComponentWhatsapp from './components/WhatsappOutlined';
-import ComponentInstagram from './components/InstagramOutlined';
 const { SubMenu } = Menu;
 const { Sider } = Layout;
 

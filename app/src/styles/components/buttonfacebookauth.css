@@ -1,0 +1,17 @@
+div .divapoiar{
+    position: absolute;
+    left: 70vh;
+    top: 40vh;
+}
+
+div .botãoapoiar{
+    box-shadow: 0 0 14px 0;
+    padding: 30px 30px;
+}
+
+
+h1{
+    position: relative;
+    bottom: 20px;
+    color: white;
+}
