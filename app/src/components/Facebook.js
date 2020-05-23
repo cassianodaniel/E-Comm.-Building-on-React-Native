@@ -33,7 +33,7 @@ export default class Facebook extends Component {
                 }}
                 >
                     <img src={this.state.picture} alt = {this.state.name} 
-                        style={{height: "50px", position: "absolute", left:"16.5rem"
+                        style={{height: "50px", position: "absolute", left:"0.5rem"
                         }}
                     />
                     <h4> Seja bem-vindo, {this.state.name}!</h4>
@@ -46,7 +46,7 @@ export default class Facebook extends Component {
                 autoLoad={false}
                 fields="name,email,picture"
                 onClick={this.componentClicked}
-                callback={this.responseFacebook} 
+                callback={this.responseFacebook}
                 />
             );
         }
